@@ -2,9 +2,6 @@
 
 Repositori ini berisi skrip SQL untuk mendemonstrasikan perbandingan kompleksitas *query* sebelum dan sesudah penerapan teknik denormalisasi pada basis data penjualan (`penjualan_db`).
 
-## Anggota Kelompok 8
-* **Muhammad Andy Dwi Subandi** 
-
 ## Struktur Basis Data
 Pengujian dilakukan pada tiga tabel utama yang saling berelasi:
 1. `pelanggan` (Tabel Master)
